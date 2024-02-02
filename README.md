@@ -1,1 +1,1 @@
-# -n-Queens-Problem(with pretty print)
+# N-Queens-Problem(Back Tracking)
